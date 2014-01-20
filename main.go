@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"github.com/drone/routes"
 	"github.com/eknkc/amber"
-	"github.com/yosssi/goesjp/consts"
+	"github.com/yosssi/cfnewsjp/consts"
 	"github.com/yosssi/gologger"
 	"github.com/yosssi/goutils"
 	"html/template"
